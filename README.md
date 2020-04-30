@@ -7,5 +7,12 @@ An initial small demo.
 
 # start
 http://127.0.0.1:8080/wyx_demo1/login.jsp
+
+# login
+username：xuan
+password：11
+
+username：juan
+password：11
 # other
 Please contact [Wei Yuxuan](https://blog.csdn.net/qq_36260974) for detail.
